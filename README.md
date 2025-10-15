@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Hey+👋,+I'm+Ishika!;Full-Stack+Developer+💻;AI+Enthusiast+🚀;Building+Cool+Things+✨" alt="Typing Animation" />
+  Hey, I'm Ishika
 </h1>
 
 <!-- Socials -->
